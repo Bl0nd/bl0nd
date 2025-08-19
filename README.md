@@ -16,7 +16,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![bl0nd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl0nd&show_icons=true&theme=tokyonight&locale=pt-BR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&locale=pt-BR)
 
 ---
 
