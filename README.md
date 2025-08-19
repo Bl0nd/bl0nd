@@ -1,16 +1,38 @@
-## Hi there 👋
+## 💫 Sobre mim
 
-<!--
-**Bl0nd/bl0nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Construindo o futuro em cada linha de código.  
+💻 Desenvolvedora web apaixonada por transformar ideias em experiências digitais — com criatividade, estética e funcionalidade.  
+🌐 Sempre aprendendo, sempre criando. A tecnologia muda, e eu evoluo com ela.  
+🎯 Foco em soluções que encantam, conectam e resolvem.  
+🚀 Explorando novas ferramentas, frameworks e possibilidades todos os dias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bl0nd&layout=compact&theme=tokyonight)
+![bl0nd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl0nd&show_icons=true&theme=tokyonight)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🐍 Cobrinha de commits
+
+![Snake animation](https://github.com/bl0nd/bl0nd/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/diasfeeh)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/diasfeeh)
