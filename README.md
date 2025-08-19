@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
+</div>
 ## 💫 Sobre mim
 
 💡 Construindo o futuro em cada linha de código.  
