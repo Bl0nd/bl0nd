@@ -7,7 +7,7 @@
 ## 💫 Sobre mim
 
 💡 Construindo o futuro em cada linha de código.  
-💻 Desenvolvedora web apaixonada por transformar ideias em experiências digitais — com criatividade, estética e funcionalidade.  
+💻 Desenvolvedora web apaixonada por transformar ideias em experiências digitais com criatividade, estética e funcionalidade.  
 🌐 Sempre aprendendo, sempre criando. A tecnologia muda, e eu evoluo com ela.  
 🎯 Foco em soluções que encantam, conectam e resolvem.  
 🚀 Explorando novas ferramentas, frameworks e possibilidades todos os dias.
@@ -17,10 +17,6 @@
 ## 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bl0nd&layout=compact&theme=tokyonight)
-
----
-
-![bl0nd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl0nd&show_icons=true&theme=tokyonight)
 
 ---
 
