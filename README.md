@@ -16,7 +16,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&locale=pt-BR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bl0nd&layout=compact&locale=pt-BR)
 
 ---
 
