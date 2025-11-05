@@ -7,8 +7,8 @@
 ## 💫 Sobre mim
 
 💡 Construindo o futuro em cada linha de código.  
-💻 Desenvolvedora Full Stack movida por criatividade, curiosidade e propósito. Transformo ideias em código e código em experiências equilibrando lógica, design e emoção em cada projeto.  
-🌐 Sempre aprendendo, sempre criando. A tecnologia muda, e eu evoluo com ela.  
+💻 Desenvolvedora Full Stack movida por criatividade, curiosidade e propósito. Transformo ideias em código e código em experiências digitais que unem lógica, design e emoção  
+💎 Apaixonada por criar soluções que equilibram funcionalidade, estética e impacto real, entregando resultados que inspiram
 🎯 Foco em soluções que encantam, conectam e resolvem.  
 🚀 Explorando novas ferramentas, frameworks e possibilidades todos os dias.
 
